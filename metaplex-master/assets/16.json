@@ -1,0 +1,54 @@
+{
+  "name": "Unoriginal original #16",
+  "symbol": "UO",
+  "description": "A original project with a lot of unoriginal",
+  "seller_fee_basis_points": 500,
+  "image": "image.png",
+  "external_url": "https://github.com/JackAngle",
+  "edition": 16,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "C3pXGrbaPrjvdjWkatFV88CUhkmc1BMe4PmnBkq9YXxh",
+        "share": 100
+      }
+    ]
+  }
+}
